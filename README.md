@@ -14,8 +14,8 @@
 **Файлы:**
 
 * [schema.sql](https://github.com/Verresk/university-db-design/blob/main/SQL-scripts/data_check.sql) - DDL скрипт с созданием таблиц, индексов, отношений;
-* data_insert.sql - DDL скрипт для заполнения таблиц;
-* data_check.sql - Примеры запросов к БД для демонстрации данных таблиц;
+* [data_insert.sql](https://github.com/Verresk/university-db-design/blob/main/SQL-scripts/data_insert.sql) - DDL скрипт для заполнения таблиц;
+* [data_check.sql](https://github.com/Verresk/university-db-design/blob/main/SQL-scripts/schema.sql) - Примеры запросов к БД для демонстрации данных таблиц;
 
 *Для создания БД и просмотра ее содержимого достаточно выполнить три эти скрипта в порядке очередности, в которой они указаны выше.*
 
