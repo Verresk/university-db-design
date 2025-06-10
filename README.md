@@ -13,7 +13,7 @@
 
 **Файлы:**
 
-* schema.sql - DDL скрипт с созданием таблиц, индексов, отношений;
+* [schema.sql](https://github.com/Verresk/university-db-design/blob/main/SQL-scripts/data_check.sql) - DDL скрипт с созданием таблиц, индексов, отношений;
 * data_insert.sql - DDL скрипт для заполнения таблиц;
 * data_check.sql - Примеры запросов к БД для демонстрации данных таблиц;
 
